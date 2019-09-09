@@ -1,3 +1,10 @@
+hw.txt
+testing.py
+testing2.py
+123.py
+t.py
+simple_orm_sqlite.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
