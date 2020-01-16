@@ -1,4 +1,3 @@
-# from orm import Model
 from orm import Database
 
 db = Database('db.sqlite')
